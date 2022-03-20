@@ -1,0 +1,28 @@
+* {
+    font-size: 22px;
+    color: red;
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: azure;
+}
+
+h1 {
+    color: rgb(255, 166, 0);
+    text-align: center;
+}
+
+h2 { 
+    color: rgb(255,166,0);
+    font-style: oblique;
+}
+
+.menu-date {
+    color: goldenrod;
+    font-weight: 700;
+    font-style: oblique;
+}
+
+ a,
+ li {
+     color: blue;
+     font-size: 18px;
+ }
