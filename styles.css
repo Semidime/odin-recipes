@@ -5,6 +5,13 @@
     background-color: azure;
 }
 
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
 h1 {
     color: rgb(255, 166, 0);
     text-align: center;
@@ -15,6 +22,22 @@ h2 {
     font-style: oblique;
 }
 
+h3 {
+    color: green;
+    font-style: italic;
+    text-align: center;
+}
+
+h4 {
+    color: mediumorchid;
+    font-family: 'Times New Roman', Times, serif ;
+}
+
+.recipe-descriptions {
+    color: rgb(9, 105, 100);
+    font-size: 22px;
+    font-style: oblique;
+}
 .menu-date {
     color: goldenrod;
     font-weight: 700;
@@ -22,7 +45,9 @@ h2 {
 }
 
  a,
- li {
+ li,
+ em {
      color: blue;
      font-size: 18px;
+     font-style: oblique;
  }
